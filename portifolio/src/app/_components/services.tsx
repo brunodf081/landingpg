@@ -14,7 +14,7 @@ const services = [
       linkText: 'Olá, vi no site e gostaria de mais informações.'
     },
     {
-      title: "Troca e Manutenção de Postes",
+      title: "Fornecimento e Troca e  de Postes",
       description: "Oferece atendimento clínico básico ou especializado para cuidar da saúde do animal. Inclui diagnóstico de doenças, aplicação de vacinas obrigatórias.",
       duration: "",
       price: "",
@@ -22,7 +22,7 @@ const services = [
       linkText: 'Olá, vi no site e gostaria de mais informações.'
     },
     {
-      title: "Serviços Elétricos Industriais e Comerciais",
+      title: "Serviços Elétricos de Alta e Baixa Tensão",
       description: "Oferecemos instalações elétricas, manutenção preventiva e corretiva para empresas, indústrias e comércios. Trabalhamos com segurança e seguindo todas as normas técnicas.",
       duration: "",
       price: "",
@@ -30,7 +30,7 @@ const services = [
       linkText: 'Olá, vi no site e gostaria de mais informações.'
     },
     {
-      title: "Transporte de Equipamentos Pesados",
+      title: "Venda e Manutenção de Transformadores de Alta e Baixa Tensão ",
       description: "Especializados no transporte de máquinas, geradores, transformadores e outros equipamentos industriais. Nossa equipe garante que tudo seja movimentado com cuidado e eficiência.",
       duration: "",
       price: "",
@@ -71,7 +71,7 @@ export function Services() {
                             <div className='flex'>
                                 {services.map((item, index) => (
                                     <div key={index} className='flex-[0_0_100%] min-w-0 md:flex-[0_0_calc(100%/3)] px-3'>
-                                        <article className='bg-white text-black rounded-2xl p-6 space-y-6 h-full flex flex-col'>
+                                        <article className='bg-white text-black rounded-2xl p-2 space-y-6 h-full flex flex-col'>
                                             <div className='flex-1 flex items-start justify-between'>
                                                 <div className='gap-3 flex'>
                                                     <span className='text-3xl  '>{item.icon}</span>
@@ -91,7 +91,7 @@ export function Services() {
                                                 </div>
                                                 <a
                                                 target='_blank'
-                                                href="https://w.app/wgulkt" className='flex items-center justify-center gap-2 px-4 py-2 rounded-4xl text-white bg-green-600 duration-700'>
+                                                href="https://w.app/ksreg5" className='flex items-center justify-center gap-2 px-4 py-2 rounded-4xl text-white bg-green-600 duration-700'>
                                                     Entrar em contato
                                                     <WhatsappLogo size={18} />
                                                 </a>

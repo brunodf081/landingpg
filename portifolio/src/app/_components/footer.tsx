@@ -50,10 +50,11 @@ export function Footer() {
 
         <footer className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12 mt-5'>
           <div>
-            <h3 className='text-2xl font-semibold mb-2'>Pet Shop Dev</h3>
-            <p className='mb-4'>Cuidando do seu melhor amigo com amor e dedicação.</p>
+            <h3 className='text-2xl font-semibold mb-2'>BF Eletricidade e Munck</h3>
+            <p className='mb-4'>Cuidando do seu Serviço com foco e dedicação.</p>
             <a
-              href="#"
+            target='_blank'
+              href="https://w.app/ksreg5"
               className='bg-green-500 px-4 py-2 rounded-md'
             >
               Contato via WhatsApp
@@ -63,9 +64,9 @@ export function Footer() {
 
           <div>
             <h3 className='text-2xl font-semibold mb-2'>Contatos</h3>
-            <p>Email: teste@teste.com</p>
-            <p>Telefone: (XX) 1231831238</p>
-            <p>Rua X, centro, Campo Grande | MS</p>
+            <p>Email: bfeletricidade@yahoo.com.br</p>
+            <p>Telefone: (81) 988295771 </p>
+            <p>Rua Compositor Alcides Maciel N62, Fragoso, Paulista | PE</p>
           </div>
 
 

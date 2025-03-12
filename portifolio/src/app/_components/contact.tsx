@@ -93,7 +93,7 @@ export function Contact() {
                                                 <div className='flex items-center justify-center gap-2 px-4 py-2'>
                                                     <a 
                                                     target='_blank'
-                                                    href="https://w.app/wgulkt" className='flex items-center justify-center text-white gap-2 px-4 py-2 rounded-4xl bg-green-600 hover:bg-green-600 duration-700'>
+                                                    href="https://w.app/ksreg5" className='flex items-center justify-center text-white gap-2 px-4 py-2 rounded-4xl bg-green-600 hover:bg-green-600 duration-700'>
                                                      Faça seu Orçamento<WhatsappLogo size={18}/>
                                                     </a>
                                                     

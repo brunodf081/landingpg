@@ -32,7 +32,7 @@ export function Hero() {
                        
                             <a
                             target='_blank'
-                             href="https://w.app/wgulkt"
+                             href="https://w.app/ksreg5"
                              className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2"
                              >
                                 <WhatsappLogo size={22} />
