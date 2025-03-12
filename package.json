@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@phosphor-icons/react": "^2.1.7",
+    "embla-carousel-react": "^8.5.2"
+  }
+}
